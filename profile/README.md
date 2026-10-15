@@ -54,6 +54,7 @@ At Roversa, we believe innovation thrives when ideas are shared openly. The [Rov
 - [**robot-chassis-3dp**](https://github.com/Roversa-Robotics/robot-chassis-3dp): a 3D-printable Roversa chassis (Fusion 360, STL, STEP).
 - [**charging-station-3dp**](https://github.com/Roversa-Robotics/charging-station-3dp): a modular 3D-printable charging station for a classroom set of robots.
 - [**manufacturing**](https://github.com/Roversa-Robotics/manufacturing): laser-cut and 3D-printed parts files for building Roversa.
+- [**roversa-quest**](https://github.com/Roversa-Robotics/roversa-quest): 3D-printable direction die and game pieces for the [Roversa Adventure Quest](https://www.roversa.com/adventure-quest.html) classroom game.
 - [**roversa-accessories**](https://github.com/Roversa-Robotics/roversa-accessories): add-on accessories for the robot.
 
 ## 🧩 Programming Roversa
