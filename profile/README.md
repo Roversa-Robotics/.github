@@ -1,9 +1,15 @@
 <p align="center">
-  <a href="https://www.roversa.com"><img src="https://www.roversa.com/uploads/8/2/2/3/8223179/roversalogo.png" alt="Roversa Robotics logo" height="90"></a>
+  <a href="https://www.roversa.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Roversa-Robotics/.github/main/profile/assets/roversa-logo-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Roversa-Robotics/.github/main/profile/assets/roversa-logo-light.png">
+      <img src="https://raw.githubusercontent.com/Roversa-Robotics/.github/main/profile/assets/roversa-logo-card.png" alt="Roversa Robotics logo" height="90">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
-  <img src="./assets/roversa-header.png" alt="Three Roversa robots: two laser-cut wooden Roversas and a purple 3D-printed Roversa, each with a micro:bit, colorful programming buttons and a flag" width="100%">
+  <img src="https://raw.githubusercontent.com/Roversa-Robotics/.github/main/profile/assets/roversa-header.png" alt="Three Roversa robots: two laser-cut wooden Roversas and a purple 3D-printed Roversa, each with a micro:bit, colorful programming buttons and a flag" width="100%">
 </p>
 
 # Roversa Robotics
@@ -42,7 +48,7 @@ At Roversa, we believe innovation thrives when ideas are shared openly. The [Rov
 
 ## 🛠️ Open-source hardware
 
-<img src="./assets/roversa-chassis-3dp.png" alt="3D-printable Roversa chassis in Fusion 360" align="right" width="260">
+<img src="https://raw.githubusercontent.com/Roversa-Robotics/.github/main/profile/assets/roversa-chassis-3dp.png" alt="3D-printable Roversa chassis in Fusion 360" align="right" width="260">
 
 - [**roversa2**](https://github.com/Roversa-Robotics/roversa2): the main Roversa robot platform repo, with parts list and ready-to-flash hex files.
 - [**robot-chassis-3dp**](https://github.com/Roversa-Robotics/robot-chassis-3dp): a 3D-printable Roversa chassis (Fusion 360, STL, STEP).
@@ -61,7 +67,7 @@ At Roversa, we believe innovation thrives when ideas are shared openly. The [Rov
 
 ## 📊 Tools
 
-<img src="./assets/roversa-illustration.png" alt="Illustration of the Roversa robot with its micro:bit and direction buttons" align="right" width="110">
+<img src="https://raw.githubusercontent.com/Roversa-Robotics/.github/main/profile/assets/roversa-illustration.png" alt="Illustration of the Roversa robot with its micro:bit and direction buttons" align="right" width="110">
 
 - [**roversa-adventure-quest-online**](https://github.com/Roversa-Robotics/roversa-adventure-quest-online): a browser version of the Roversa Adventure Quest classroom game. Works on computers, tablets, and phones, and installs as an offline app. [**▶ Play now**](https://roversa-robotics.github.io/roversa-adventure-quest-online/)
 - [**Roversa\_PetBot\_hub**](https://github.com/Roversa-Robotics/Roversa_PetBot_hub): the hub for PetBot, a virtual pet built with Roversa, with a getting-started guide, starter projects, and challenges.
