@@ -50,7 +50,7 @@ At Roversa, we believe innovation thrives when ideas are shared openly. The [Rov
 
 <img src="https://raw.githubusercontent.com/Roversa-Robotics/.github/main/profile/assets/roversa-chassis-3dp.png" alt="3D-printable Roversa chassis in Fusion 360" align="right" width="260">
 
-- [**roversa2**](https://github.com/Roversa-Robotics/roversa2): the main Roversa robot platform repo, with parts list and ready-to-flash hex files.
+- [**roversa2**](https://github.com/Roversa-Robotics/roversa2): the main Roversa robot platform repo, with parts list and ready-to-flash firmware hex files.
 - [**robot-chassis-3dp**](https://github.com/Roversa-Robotics/robot-chassis-3dp): a 3D-printable Roversa chassis (Fusion 360, STL, STEP).
 - [**charging-station-3dp**](https://github.com/Roversa-Robotics/charging-station-3dp): a modular 3D-printable charging station for a classroom set of robots.
 - [**manufacturing**](https://github.com/Roversa-Robotics/manufacturing): laser-cut and 3D-printed parts files for building Roversa.
@@ -60,7 +60,6 @@ At Roversa, we believe innovation thrives when ideas are shared openly. The [Rov
 ## 🧩 Programming Roversa
 
 - **[pxt-roversa-2](https://github.com/Roversa-Robotics/pxt-roversa-2)**: the Roversa extension for Microsoft MakeCode for micro:bit, with blocks for the robot's buttons, driving, speed, and steering trim.
-- **[roversa-firmware](https://github.com/Roversa-Robotics/roversa-firmware)**: C/C++ CODAL firmware for the micro:bit V2 inside Roversa.
 - **[servoRoversa](https://github.com/Roversa-Robotics/servoRoversa)**: C++ library for driving Roversa's continuous servo motors.
 - **[batteryRoversa](https://github.com/Roversa-Robotics/batteryRoversa)**: C++ library for reading Roversa's battery voltage.
 - **[KTD2052DriverRoversa](https://github.com/Roversa-Robotics/KTD2052DriverRoversa)**: C++ driver for the KTD2052 I2C RGB LED module.
